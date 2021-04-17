@@ -32,7 +32,7 @@ $ npm run serve
 $ npm run build
 ```
 
-Leia as documentações abaixo para continuar com seu desenvolvimento com essas tecnologias.
+Leia as documentações abaixo para continuar seu desenvolvimento com essas tecnologias.
 
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vue.js](https://br.vuejs.org/)
