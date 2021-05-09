@@ -3,7 +3,7 @@
 Criei este repositório para me ajudar na hora de desenvolver uma aplicação, pois acaba facilitando muito toda a configuração do ambiente.
 
 <p align="center">
-    <img src="https://i.imgur.com/g1Ev9cH.png">
+    <img src="https://i.imgur.com/oSUJWo7.png">
 </p>
 
 ## Começando
@@ -36,6 +36,8 @@ Leia as documentações abaixo para continuar seu desenvolvimento com essas tecn
 
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vue.js](https://br.vuejs.org/)
+- [Boxicons](https://boxicons.com/)
+- [vue-meta](https://www.npmjs.com/package/vue-meta)
 
 <p align="center">Template feito com 💖 por Mich.</p>
 

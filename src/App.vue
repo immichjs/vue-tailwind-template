@@ -1,6 +1,7 @@
 <template>
   <div id="app" class="flex items-center justify-center h-screen bg-gray-50">
     <Home />
+    
   </div>
 </template>
 
@@ -9,7 +10,13 @@ import Home from '@/components/Home'
 
 export default {
   name: 'App',
-  title: 'Vue with Tailwind CSS | Template',
+  metaInfo: {
+    title: 'Vue with Tailwind CSS | Template',
+    titleTemplate: '%s - Yay!',
+    htmlAttrs: {
+      lang: 'pt-br',
+    }
+  },
   components: {
     Home
   }

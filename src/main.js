@@ -1,10 +1,10 @@
 import Vue from 'vue'
 import App from './App.vue'
-import title from './assets/mixins/title'
+import VueMeta from 'vue-meta'
 
 import './assets/css/index.css'
 
-Vue.mixin(title)
+Vue.use(VueMeta, { refreshOnceOnNavegation: true })
 Vue.config.productionTip = false
 
 new Vue({
