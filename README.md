@@ -37,7 +37,8 @@ Leia as documentações abaixo para continuar seu desenvolvimento com essas tecn
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vue.js](https://br.vuejs.org/)
 - [Boxicons](https://boxicons.com/)
-- [vue-meta](https://www.npmjs.com/package/vue-meta)
+- [Vue-Meta](https://www.npmjs.com/package/vue-meta)
+- [Vuex](https://vuex.vuejs.org/ptbr/)
 
 <p align="center">Template feito com 💖 por Mich.</p>
 
